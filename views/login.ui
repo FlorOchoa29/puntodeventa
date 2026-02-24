@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
+    <width>1132</width>
     <height>601</height>
    </rect>
   </property>
@@ -57,7 +57,7 @@
          <property name="font">
           <font>
            <family>Arial Black</family>
-           <pointsize>15</pointsize>
+           <pointsize>10</pointsize>
            <weight>75</weight>
            <bold>true</bold>
           </font>
@@ -127,9 +127,9 @@
         </widget>
        </item>
        <item>
-        <widget class="QPushButton" name="pushButton">
+        <widget class="QPushButton" name="btn_login">
          <property name="text">
-          <string>PushButton</string>
+          <string>Ingresar</string>
          </property>
         </widget>
        </item>
